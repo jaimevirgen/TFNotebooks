@@ -1,14 +1,16 @@
 # Tensorflow Notebooks
-Practice diverse machine learning topics using Google's Tensorflow framework.
+Practice diverse machine learning topics using Google's Tensorflow framework. Notebooks focus on one particular machine learning technique supported natively by the Tensorflow library.
+
+
+
 
 ## Dependency Installations
-
 [Tensorflow Install](https://www.tensorflow.org/install/)
 ```sh
     $ pip install tensorflow      # Python 2.7
     $ pip3 install tensorflow     # Python 3.n
     
-    # If installation fails
+    # If installation should fail
     $ sudo pip  install --upgrade tfBinaryURL   # Python 2.7
     $ sudo pip3 install --upgrade tfBinaryURL   # Python 3.n 
 ```
