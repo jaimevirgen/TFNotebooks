@@ -13,7 +13,7 @@ Practice diverse machine learning topics using Google's Tensorflow framework.
     $ sudo pip3 install --upgrade tfBinaryURL   # Python 3.n 
 ```
 
-[Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html)
+[Jupyter Notebook Install](http://jupyter.readthedocs.io/en/latest/install.html)
 ```sh
     $ pip install jupyter      # Python 2.x
     $ pip3 install jupyter     # Python 3.x
