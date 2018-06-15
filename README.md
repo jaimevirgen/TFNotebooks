@@ -20,6 +20,12 @@ Practice diverse machine learning topics using Google's Tensorflow framework. No
     $ pip install jupyter      # Python 2.x
     $ pip3 install jupyter     # Python 3.x
 ```
+
+[NUMPY Install](https://www.scipy.org/install.html)
+```sh
+    $ pip install numpy
+```
+
 For beginners it is recommended to install through [Anaconda](https://www.anaconda.com/download/#macos)
 
 ## Validation
